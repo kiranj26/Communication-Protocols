@@ -9,4 +9,5 @@ https://www.ni.com/en/shop/seamlessly-connect-to-third-party-devices-and-supervi
 
 ## Refernses for UART
 [UART](https://github.com/theEmbeddedGeorge/theEmbeddedNewTestament.github.io/blob/master/Bus_Protocol/Uart.md)
+[YouTube](https://www.youtube.com/watch?v=sTHckUyxwp8&t=4s&ab_channel=RohdeSchwarz)
 
