@@ -9,7 +9,7 @@ https://www.ni.com/en/shop/seamlessly-connect-to-third-party-devices-and-supervi
 
 ## Refernses for UART
 [UART](https://github.com/theEmbeddedGeorge/theEmbeddedNewTestament.github.io/blob/master/Bus_Protocol/Uart.md)    
-[YouTube : Understanding UART](https://www.youtube.com/watch?v=sTHckUyxwp8&t=4s&ab_channel=RohdeSchwarz)    
+**IMP**[YouTube : Understanding UART](https://www.youtube.com/watch?v=sTHckUyxwp8&t=4s&ab_channel=RohdeSchwarz)    
 [Youtube : Decoding UART with MXO Series Oscilloscopes](https://www.youtube.com/watch?v=MncKy3usPks&ab_channel=RohdeSchwarz)    
-**IMP**[Youtibe : how does UART work??? (explained clearly)](https://www.youtube.com/watch?v=V6m2skVlsQI&ab_channel=ContinuousLoad)
-
+[Youtibe : how does UART work??? (explained clearly)](https://www.youtube.com/watch?v=V6m2skVlsQI&ab_channel=ContinuousLoad)    
+**IMP**[UART from ADI](https://www.analog.com/en/analog-dialogue/articles/uart-a-hardware-communication-protocol.html)
